@@ -22,7 +22,7 @@ if (categoria.flora == "flora") {
     
 }
 
-
+<p>Hola mundo</p>
 
 
 export default categoria;
